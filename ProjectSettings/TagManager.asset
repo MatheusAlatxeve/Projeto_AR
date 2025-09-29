@@ -5,7 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - carro_verde
-  - Info
+  - carro_vermelho
+  - carro_azul
+  - carro_amarelo
+  - VerdeInfo
+  - VermelhoInfo
+  - AzulInfo
+  - AmareloInfo
   layers:
   - Default
   - TransparentFX

@@ -4,6 +4,7 @@
 [Bb]uilds/
 [Ll]ogs/
 [Pp]ackages/com.unity.package-manager/manifest.json
+UserSettings/
 
 # Visual Studio
 .vscode/
