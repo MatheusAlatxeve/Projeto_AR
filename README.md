@@ -68,3 +68,10 @@ Através da câmera do dispositivo, as crianças podem explorar diferentes tipos
 3. Certifique-se de que os pacotes AR Foundation e ARCore XR Plugin estão instalados.
 4. Adicione suas Image Targets e associe os modelos 3D correspondentes.
 5. Configure a AR Camera como câmera principal.
+
+### Integrantes
+Matheus Alatxeve Pereira RA:20.00528-8
+Eduardo Anjos Villela RA:22.00506-4
+Gabriel Araujo Carrasco RA:22.00906-0
+Gustavo Yudji Hiromoto RA:22.00839-0
+``
